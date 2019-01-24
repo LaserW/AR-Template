@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "b00601188299d73f5c4cea7f6aaac862"
+build_time: [1548358898, 895806000]
+inputs:
+  "/Users/laserino/Desktop/Projects/swift-\u043C\u043E\u0434\u0443\u043B\u044C3/7/AR Template/AR Template/ViewController.swift": [1548358898, 0]
+  "/Users/laserino/Desktop/Projects/swift-\u043C\u043E\u0434\u0443\u043B\u044C3/7/AR Template/AR Template/AppDelegate.swift": [1548182541, 0]
